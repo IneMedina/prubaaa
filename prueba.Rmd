@@ -4,6 +4,10 @@ output: html_document
 date: "2024-08-23"
 ---
 
+
+#REALIZE UN CAMBIO EN EL ARCHIVO .2.2
+porque no se ve 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
