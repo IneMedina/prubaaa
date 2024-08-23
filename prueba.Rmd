@@ -3,7 +3,7 @@ title: "Pruebaa"
 output: html_document
 date: "2024-08-23"
 ---
-
+modificacion desde git 
 
 #REALIZE UN CAMBIO EN EL ARCHIVO .2.2
 porque no se ve 
